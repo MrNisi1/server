@@ -9,3 +9,6 @@ Paid use:
 Pc user for 5 Days use
 MR-NISI-6297D19924NISI==
 
+Mobile user 1 mas
+MR-NISI-7D01617BABNISI==
+
